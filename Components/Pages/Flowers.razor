@@ -1,0 +1,24 @@
+﻿@page "/flowers"
+@rendermode InteractiveServer
+
+<h3>Flowers</h3>
+@if (flowers == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="container">
+    @foreach (var flower in flowers)
+        {
+            <div class="card">
+                <img class="card-img-top" src="@flower.Img" alt="@flower.Id">
+                <div class="card-body">
+                    <h5 class="card-title">@flower.ProductName</h5>
+                    <p class="card-text">@flower.Description</p>
+                    <p class="card-text">Price: @flower.Price €</p>
+                </div>
+            </div>
+        }
+    </div>
+}

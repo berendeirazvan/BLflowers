@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/obj/Debug/net8.0/scopedcss/projectbundle/BLFlowers.bundle.scp.css",
+      "PackagePath": "staticwebassets/BLFlowers.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/data/products.json",
+      "PackagePath": "staticwebassets/data/products.json"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/rberendei/Projects/BLFlowers/wwwroot/flowers.json",
+      "PackagePath": "staticwebassets/flowers.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BLFlowers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BLFlowers.props",
+      "PackagePath": "build\\BLFlowers.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BLFlowers.props",
+      "PackagePath": "buildMultiTargeting\\BLFlowers.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BLFlowers.props",
+      "PackagePath": "buildTransitive\\BLFlowers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
